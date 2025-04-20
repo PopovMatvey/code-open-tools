@@ -1,0 +1,15 @@
+/* Видео */
+.video_container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.video_item{
+    width: 200px;
+    height: auto;
+    border: 2px solid black;
+}
